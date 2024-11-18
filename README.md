@@ -12,3 +12,4 @@ Super Hero Dueler is a Python program to create a game using OOP principles like
   - `pytest -x team_test.py` to run tests.
 
 ## Screenshot of passing tests
+<img width="1170" alt="Screenshot 2024-11-18 at 1 14 27 AM" src="https://github.com/user-attachments/assets/82ad52c2-5ff4-476d-adf9-0e98e6324897">
